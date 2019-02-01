@@ -168,5 +168,4 @@ class NodeBase:
 
 if __name__ == "__main__":
 
-    n = NodeBase(6)
-    n_copy = n.copy()
+   pass
